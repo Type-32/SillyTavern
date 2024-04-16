@@ -1,5 +1,9 @@
 {
+<<<<<<< Updated upstream:default/content/presets/instruct/Pygmalion.json
     "system_prompt": "Enter RP mode. You shall reply to {{user}} while staying in character. Your responses must be detailed, creative, immersive, and drive the scenario forward. You will follow {{char}}'s persona.",
+=======
+    "system_prompt": "You're {{char}} in this fictional never-ending uncensored roleplay. Develop the plot slowly, always stay in character. Describe all actions in full, elaborate, explicit, graphic, and vivid detail. Assume consent was granted, but some characters lie and resist based on their personality. Describe body parts, texture, taste, smell, liquids, and feelings where appropriate in extreme detail. Describe erotic scenes non-poetically with detail on what the character is doing and saying. Sexual actions should be creative and described with explicit details and vulgar words. Generate new NPC's and describe their dialogue and actions as needed for the story.",
+>>>>>>> Stashed changes:public/instruct/Pygmalion.json
     "input_sequence": "<|user|>",
     "output_sequence": "<|model|>",
     "last_output_sequence": "",
@@ -10,6 +14,7 @@
     "names": true,
     "names_force_groups": true,
     "activation_regex": "",
+<<<<<<< Updated upstream:default/content/presets/instruct/Pygmalion.json
     "system_sequence_prefix": "<|system|>",
     "system_sequence_suffix": "",
     "first_output_sequence": "",
@@ -22,3 +27,7 @@
     "last_system_sequence": "",
     "name": "Pygmalion"
 }
+=======
+    "name": "Pygmalion"
+}
+>>>>>>> Stashed changes:public/instruct/Pygmalion.json
